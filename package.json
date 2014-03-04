@@ -1,0 +1,21 @@
+{
+  "name": "allcolors-js",
+  "version": "0.0.0",
+  "description": "allcolors-js",
+  "main": "allcolors.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bstst/allcolors-js.git"
+  },
+  "author": "Martin Saulis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bstst/allcolors-js/issues"
+  },
+  "homepage": "https://github.com/bstst/allcolors-js",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "gulp": "~3.5.5",
+    "pngjs": "~0.4.0"
+  }
+}
